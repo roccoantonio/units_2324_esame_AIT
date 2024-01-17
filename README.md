@@ -1,5 +1,5 @@
-# units_2324_esame_AIT
-In questo repository sono presenti i file per l'esame di Abilità Informatiche e Telematiche tenuto presso l'Università degli Studi di Trieste dalle proff.sse Valenntini e Bertocco.
+# Esame AIT
+In questo repository sono presenti i file per l'esame di Abilità Informatiche e Telematiche tenuto presso l'Università degli Studi di Trieste dalle proff.sse Valentini e Bertocco.
 
 ## Contenuti
 
