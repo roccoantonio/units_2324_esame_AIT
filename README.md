@@ -8,7 +8,7 @@ Script di setup che *deve* essere lanciata con il comando
 ```
 source setup.sh
 ```
-Lo script copia i file dalla `$PWD` in cui è lanciato nella subdirectory  `esame_rocco/`, rende eseguibili i file di script `start_script.sh` e `plot_stars.py` e imposta le variabili di sistema `PATH` e `PYTHONPATH`.
+Lo script sposta i file dalla `$PWD` in cui è lanciato nella subdirectory  `esame_rocco/`, rende eseguibili i file di script `start_script.sh` e `plot_stars.py` e imposta le variabili di sistema `PATH` e `PYTHONPATH`.
 
 ### start_script.sh
 Lo script viene lanciato dalla subdirectory creata precedentemente. Dopo il lancio lo script scarica i file necessari per l'esecuzione dello script python dopodiché lancia lo stesso.
